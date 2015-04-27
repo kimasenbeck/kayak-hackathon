@@ -1,0 +1,80 @@
+<!--  <!-- About Section -->
+    <section id="about">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2 class="section-heading">(how to) where to</h2>
+                    <p>Deciding where to travel is hard. where to will solve that problem. Tell us how much you want to spend, and give us an idea of the regions you might be interested in visiting. We'll do the rest.</p>
+<!--                     <h3 class="section-subheading text-muted">1-2-3 Go!.</h3>
+ -->                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-12">
+                    <ul class="timeline">
+                        <li>
+                            <div class="timeline-image">
+                                <img class="img-circle img-responsive" src="img/about/1.jpg" alt="">
+                            </div>
+                            <div class="timeline-panel">
+                                <div class="timeline-heading">
+                                    <h4>Destination</h4>
+                                    <h4 class="subheading">Tell us what region you want to travel to.</h4>
+                                </div>
+<!--                                 <div class="timeline-body">
+                                    <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!</p>
+                                </div> -->
+                            </div>
+                        </li>
+                        <li class="timeline-inverted">
+                            <div class="timeline-image">
+                                <img class="img-circle img-responsive" src="img/about/2.jpg" alt="">
+                            </div>
+                            <div class="timeline-panel">
+                                <div class="timeline-heading">
+                                    <h4>Dates</h4>
+                                    <h4 class="subheading">When do you want to leave?</h4>
+                                </div>
+                                <!-- <div class="timeline-body">
+                                    <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!</p>
+                                </div> -->
+                            </div>
+                        </li>
+                        <li>
+                            <div class="timeline-image">
+                                <img class="img-circle img-responsive" src="img/about/3.jpg" alt="">
+                            </div>
+                            <div class="timeline-panel">
+                                <div class="timeline-heading">
+                                    <h4>Let us do the rest.</h4>
+                                    <h4 class="subheading">We'll give you some ideas. Then we'll tell you how to get there.</h4>
+                                </div>
+                                <div class="timeline-body">
+                                    <p class="text-muted">We'll show you a picture of a nameless city. You tell us whether or not you love the aesthetic. After we find some matches, we'll give you options, and show you how to get there.</p>
+                                
+                                </p>
+                                </div>
+                            </div>
+                        </li>
+                        <li class="timeline-inverted">
+                            <div class="timeline-image">
+                                <h4>Bon Voyage.<h4>
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </section> -->
+
+
+            <!-- Filters Section -->
+    <section id="download" class="content-section text-center">
+        <div class="download-section">
+            <div class="container">
+                <div class="col-lg-8 col-lg-offset-2">
+                    <h2>Ready?</h2>
+                    <a href="http://startbootstrap.com/template-overviews/grayscale/" class="btn btn-default btn-lg">set your preferences</a>
+                </div>
+            </div>
+        </div>
+    </section>
